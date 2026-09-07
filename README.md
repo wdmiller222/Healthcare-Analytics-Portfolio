@@ -67,5 +67,3 @@ I'm currently completing self-directed training in:
 
 ---
 *All healthcare data used in this portfolio is fictional, synthetic, or publicly available. No patient or employer-proprietary information is used.*
-
-*All healthcare data used in this portfolio is fictional, synthetic, or publicly available. No patient or employer-proprietary information is used.*
